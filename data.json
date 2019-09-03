@@ -31,7 +31,7 @@
           "price": 800,
           "currency": "€",
           "color": "#FFAC69"
-        },
+        }
       ]
     },
     {
@@ -64,7 +64,7 @@
           "price": 800,
           "currency": "€",
           "color": "#FFAC69"
-        },
+        }
       ]
     },
     {
@@ -97,8 +97,8 @@
           "price": 800,
           "currency": "€",
           "color": "#FFAC69"
-        },
+        }
       ]
-    },
+    }
   ]
 }
