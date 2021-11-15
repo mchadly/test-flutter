@@ -9,6 +9,7 @@ Integrate the screens below as best as you can.
 - Structure with a MVC pattern
 
 ## Rules to follow
+- Make a fork of this repository
 - Code in Swift
 - Make a Swift Package that encapsulates all data management
 - You must commit regularly so we can follow your progress with an initial empty commit when you start the test
