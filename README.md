@@ -1,4 +1,4 @@
-# test-ios
+# Test iOS
 
 Integrate the screens below as best as you can.
 
@@ -10,7 +10,9 @@ Integrate the screens below as best as you can.
 
 ## Rules to follow
 - Code in Swift
+- Make a Swift Package that encapsulates all data management
 - You must commit regularly so we can follow your progress with an initial empty commit when you start the test
+- if you can't finish this test, make sure you provide a minimal viable product and add comments about the next steps
 
 ## Deliverables
 
